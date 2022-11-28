@@ -1,0 +1,4 @@
+# esta es la lista de los archivos a ignorar
+*.log
+!log2.log
+*.txt
